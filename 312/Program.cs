@@ -10,6 +10,7 @@ namespace _312
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
